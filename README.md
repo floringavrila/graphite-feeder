@@ -12,7 +12,7 @@ git clone https://github.com/floringavrila/graphite-feeder.git
 ````
 
 ## Usage
-For usage examples, please refer to the [Usage wiki](https://www.thingsconnected.io/php/graphite-feeder).
+For usage examples, please refer to the [Usage wiki](https://www.thingsconnected.io/graphite-feeder).
 
 ````
 use  Gavrila\GraphiteFeeder;
