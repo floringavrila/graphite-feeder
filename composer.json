@@ -2,7 +2,7 @@
     "name": "floringavrila/graphite-feeder",
     "type": "library",
     "description": "Graphite Feeder is a library that sends data directly to Graphite data port.",
-    "homepage": "https://www.thingsconnected.io/php/graphite-feeder",
+    "homepage": "https://www.thingsconnected.io/graphite-feeder",
     "keywords": ["graphite", "grafana", "feeder", "data", "port", "php", "client"],
     "license": "MIT",
     "authors": [
