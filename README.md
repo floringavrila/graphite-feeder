@@ -5,7 +5,7 @@ The library is similar to StatsD and must be used as a singleton.
 Make sure that the library retention settings are exactly the same as the retention settings from graphite server(storage-schemas.conf).
 ## Installation
 ````
-composer require gavrila/graphite-feeder
+composer require floringavrila/graphite-feeder
 ````
 ````
 git clone https://github.com/floringavrila/graphite-feeder.git
